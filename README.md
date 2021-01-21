@@ -10,7 +10,7 @@ Currently based in The Netherlads :netherlands: originally from Brasil :brazil: 
 
 **Current technologies I'm working with:**
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Javascript](https://img.shields.io/badge/-JavaScript-black?logo=Javascript) ![React](https://img.shields.io/badge/-React-black?logo=React) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django) ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=GraphQL) ![Nuxt.js](https://img.shields.io/badge/Nuxt-black?style=flat-square&logo=nuxt.js) ![Vue.js](https://img.shields.io/badge/Vue-black?style=flat-square&logo=vue.js)
+![Git](https://img.shields.io/badge/--black?style=flat-square&logo=git) ![Javascript](https://img.shields.io/badge/--black?logo=Javascript) ![React](https://img.shields.io/badge/--black?logo=React) ![Python](https://img.shields.io/badge/--black?style=flat-square&logo=python)   ![Django](https://img.shields.io/badge/--black?style=flat-square&logo=django) ![GraphQL](https://img.shields.io/badge/--black?style=flat-square&logo=GraphQL) ![Nuxt.js](https://img.shields.io/badge/--black?style=flat-square&logo=nuxt.js) ![Vue.js](https://img.shields.io/badge/--black?style=flat-square&logo=vue.js)
 
 **My wishlist to go forward with:**
 
